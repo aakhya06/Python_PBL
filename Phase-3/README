@@ -1,1 +1,44 @@
+Phase 3 – Model Testing and Performance Evaluation
 
+Project Title:
+Diabetes Risk Prediction using Machine Learning
+
+Objective:
+The objective of this phase is to evaluate and compare the performance of multiple machine learning models for accurate diabetes risk prediction using
+different evaluation metrics and visualization techniques.
+
+Description:
+In this phase, the project focuses on testing and evaluating the trained machine learning models using the preprocessed diabetes dataset. The 
+dataset is provided to multiple classification algorithms including Logistic Regression, K-Nearest Neighbors (KNN), Decision Tree, and Support 
+Vector Machine (SVM) to analyze their prediction performance.
+The models are evaluated using important classification metrics such as Accuracy, Precision, Recall, and F1-Score to measure reliability and 
+effectiveness in predicting diabetes risk. Confusion matrices are generated to visualize correct and incorrect predictions made by each model.
+Additional visualizations and comparisons are performed to understand the strengths and weaknesses of different algorithms.
+This phase helps identify the most suitable model for diabetes prediction by comparing the performance of all implemented algorithms on the testing dataset.
+
+Tasks Completed:
+Model testing using trained datasets
+Performance evaluation of Logistic Regression
+Performance evaluation of K-Nearest Neighbors (KNN)
+Performance evaluation of Decision Tree
+Performance evaluation of Support Vector Machine (SVM)
+Calculation of Accuracy, Precision, Recall, and F1-Score
+Confusion matrix generation and analysis
+Model comparison and result interpretation
+Output visualization and performance analysis
+
+Tools & Technologies Used:
+Python
+Pandas
+NumPy
+Matplotlib / Seaborn
+Scikit-learn
+Files Included:
+db_risk.csv – Preprocessed dataset
+PBL_notebook.ipynb – Model testing and evaluation code
+Output Screenshots – Accuracy results, confusion matrices, and evaluation outputs
+
+Outcome of Phase-3:
+The machine learning models are successfully tested and evaluated using multiple performance metrics. Comparative analysis of 
+Logistic Regression, KNN, Decision Tree, and SVM is completed to identify the most accurate and reliable model for diabetes risk prediction. 
+The final system is now capable of predicting whether a patient is diabetic or non-diabetic based on clinical health parameters.M
